@@ -10,3 +10,4 @@ As dificuldades para o ensino-aprendizagemesarPC/profcesarPC is a ✨ special �
 You can click the Preview link to take a look at your changes.
 --->
 < ---Este arquivo tem o objetivo de funcionar como um exercício de criação de documento readme na plataforma/repositório GITHUB. --->
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white - cesar.pereira@escola.pr.gov.br
