@@ -1,8 +1,9 @@
-- 👋 Olá, sou o professor Cesar.  
-- :joystick: Meus interesses são: tecnologia, filmes e livros de ficção científica e retrogames.
+- 👋 Olá, sou o professor Cesar.
+- 📫 Sou professor das disciplinas de Geografia, História e Pensamento Computacional.  
+- 🕹️ Meus interesses são: tecnologia, filmes e livros de ficção científica e retrogames.
 - 🌱 No momento busco aprender sobre programação direcionada à educaçao. 
 - 💞️ Procuro colaborar com meus/minhas colegas. As trocas de informações são primordiais.
-- 📫 Sou professor das disciplinas de Geografia, História e Pensamento Computacional.
+- 
 - 
 
 <!---
